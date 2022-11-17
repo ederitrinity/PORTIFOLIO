@@ -1,6 +1,6 @@
 # Pipeline de dados - EXTRAÇÃO DE DADOS/SCOUTS PARA CRIAÇÃO DO DASHBOARD DO CLUBE ATLÉTICO MINEIRO 
 
-O objetivo desse projeto foi criar um Dashboard com dados variados e de várias plataformas, integrando todos os departamentos do clube de futebol profissional para auxilio a área analytics, analistas de desempenho e comissão técnica do Clube atlético Mineiro.  
+O objetivo desse projeto não é mostrar dados fidedignos, até mesmo porque cruzando dados de tantas plataformas diferentes, podemos encontrar divergências para a mesma informação! Mas o principal objetivo foi demonstrar que é possível criar um Dashboard com dados INTEGRADOS, de várias plataformas DIFERENTES, e integrando todos os departamentos do clube de futebol profissional. Com informações unificadas, melhor será o trabalho realizado nas áreas de analytics dos clubes, melhor será a vida dos analistas de desempenho e comissão técnica, que neste exemplo tomamos o Clube atlético Mineiro.  
 
 - **Fonte de Dados:** 
 - SofaScore: https://www.sofascore.com/
